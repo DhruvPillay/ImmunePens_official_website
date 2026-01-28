@@ -4,7 +4,7 @@ nav {
 
 body {
     font-family: 'Press Start 2P', sans-serif;
-background-image: url("/assets/assets/background.png");
+background-image: url("./assets/assets/background.png");
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -21,7 +21,7 @@ p {
 
 @font-face {
   font-family: 'Press Start 2P';
-  src: url('/assets/assets/PressStart2P-Regular.ttf') format('ttf');
+  src: url('./assets/assets/PressStart2P-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }

@@ -4,7 +4,7 @@ nav {
 
 body {
     font-family: 'Press Start 2P', sans-serif;
-background-image: url("/assets/assets/even\ better\ lava.jpg");
+background-image: url("./assets/assets/even\ better\ lava.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 }
