@@ -1,0 +1,37 @@
+body {
+   
+background-image: url("/assets/assets/SCORE.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+nav {
+    background-color: #3D051A;
+    font-family: 'Press Start 2P';
+  src: url('/assets/assets/PressStart2P-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  color:white;
+
+}
+h2 {
+    font-family: 'Press Start 2P';
+  src: url('/assets/assets/PressStart2P-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+    color:white;
+}
+p1{
+    font-family: 'Press Start 2P';
+  src: url('/assets/assets/PressStart2P-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  color:white;
+}
+p2 {
+  font-family: 'Mojang';
+  src: url('/assets/assets/Mojang-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  color:white;
+}
+

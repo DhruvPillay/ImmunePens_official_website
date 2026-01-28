@@ -1,0 +1,17 @@
+body {
+    font-family: 'Press Start 2P', sans-serif;
+background-image: url("/assets/assets/background.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+nav {
+    background-color: #3D051A;
+}
+
+h1 {
+    color:white;
+}
+
+ol {
+    color:white;
+}
