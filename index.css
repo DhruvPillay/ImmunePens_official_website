@@ -1,23 +1,38 @@
 nav {
-    background-color: #3D051A;
+  background-color: #3D051A;
 }
 
 body {
-    font-family: 'Press Start 2P', sans-serif;
-background-image: url("./assets/assets/background.png");
-background-repeat: no-repeat;
-background-size: cover;
+  font-family: 'Press Start 2P', sans-serif;
+  background-image: url("./assets/assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
+main {
+    padding: 24px;
+}
+
 p {
 
-    color:white;
+  color: white;
 }
 
 .about-meeee {
-    background-color: blue;
-    padding:20px;
-    margin: 500px;
-    
+  background-color: blue;
+  padding: 20px;
+}
+
+.nameee {
+  background-color: blueviolet;
+  padding: 20px;
+  
+}
+
+.fancyyyyy {
+
+  display: flex;
+
 }
 
 @font-face {
@@ -28,7 +43,9 @@ p {
 }
 
 /* 1. Use a more-intuitive box-sizing model */
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -52,18 +69,31 @@ body {
 }
 
 /* 6. Improve media defaults */
-img, picture, video, canvas, svg {
+img,
+picture,
+video,
+canvas,
+svg {
   display: block;
   max-width: 100%;
 }
 
 /* 7. Inherit fonts for form controls */
-input, button, textarea, select {
+input,
+button,
+textarea,
+select {
   font: inherit;
 }
 
 /* 8. Avoid text overflows */
-p, h1, h2, h3, h4, h5, h6 {
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   overflow-wrap: break-word;
 }
 
@@ -71,6 +101,12 @@ p, h1, h2, h3, h4, h5, h6 {
 p {
   text-wrap: pretty;
 }
-h1, h2, h3, h4, h5, h6 {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   text-wrap: balance;
 }
