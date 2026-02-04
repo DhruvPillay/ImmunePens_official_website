@@ -7,6 +7,7 @@ body {
   background-image: url("./assets/assets/background.png");
   background-repeat: no-repeat;
   background-size: cover;
+  font-size: large;
 }
 
 main {
@@ -26,13 +27,11 @@ p {
 .nameee {
   background-color: blueviolet;
   padding: 20px;
-  
+  flex-grow: 1  ;
 }
 
 .fancyyyyy {
-
   display: flex;
-
 }
 
 @font-face {
@@ -40,6 +39,7 @@ p {
   src: url('./assets/assets/PressStart2P-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
+  
 }
 
 /* 1. Use a more-intuitive box-sizing model */
