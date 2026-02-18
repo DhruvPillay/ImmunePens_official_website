@@ -19,6 +19,12 @@ p {
   color: white;
 }
 
+.cotact-meeeeeee {
+  background-color: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(16px);
+  padding: 20px;
+}
+
 .about-meeee {
   background-color: blue;
   padding: 20px;
