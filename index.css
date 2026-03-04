@@ -29,6 +29,9 @@
   
 }
 
+h1{
+  background-color: blue;
+}
 /* 1. Use a more-intuitive box-sizing model */
 *,
 *::before,
